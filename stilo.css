@@ -1,0 +1,36 @@
+
+    
+    
+    p {
+        color: red;
+        border: 2px solid #FFFF;
+        margin: 15px;
+        text-transform:uppercase;
+    }
+    
+    .textotachado{
+        text-decoration: line-through;
+    }
+   .textotachado:hover{
+       color: aquamarine;
+       text-decoration:none;
+   }
+   #el-parrafo{
+       background-color:#FFFF;
+   }
+
+
+
+    h1 {
+        color: yellow;
+        border:2px dotted green;
+    
+    }
+    body {
+        background-color:black;
+        border: 2px dashed #0000ff;
+        padding: 16px;
+        text-decoration: line-through;
+    }
+    
+   
